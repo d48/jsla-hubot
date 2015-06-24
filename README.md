@@ -12,7 +12,7 @@ hubot and scripte repo for use in https://jsla.slack.com
 3. Make sure command is `./node_modules/hubot/bin/hubot` f
 
 ## Run your own script
-Create your own or add some scripts to the `/scripts` directory: https://github.com/github/hubot-scripts/tree/master/src/scripts
+Create your own or add some scripts to the `/scripts` directory. Some example [scripts here](https://github.com/github/hubot-scripts/tree/master/src/scripts)
 
 
 # Contribute
