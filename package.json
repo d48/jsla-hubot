@@ -8,8 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "coffee-script": "^1.9.3",
     "hubot": "^2.13.2",
     "hubot-slack": "^3.3.0"
-  },
-  "devDependencies": {}
+  }
 }
