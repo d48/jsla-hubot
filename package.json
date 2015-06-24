@@ -1,0 +1,15 @@
+{
+  "name": "jsla-hubot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hubot": "^2.13.2",
+    "hubot-slack": "^3.3.0"
+  },
+  "devDependencies": {}
+}
