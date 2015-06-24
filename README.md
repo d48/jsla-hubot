@@ -9,7 +9,7 @@ hubot and scripte repo for use in https://jsla.slack.com
 
 1. `npm install`
 2. Configure tokens locally: https://github.com/slackhq/hubot-slack#testing-your-bot-locally
-3. Make sure command is `./node_modules/hubot/bin/hubot` f
+3. Make sure command is `./node_modules/hubot/bin/hubot` 
 
 ## Run your own script
 Create your own or add some scripts to the `/scripts` directory. Some example [scripts here](https://github.com/github/hubot-scripts/tree/master/src/scripts)
