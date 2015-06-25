@@ -13,5 +13,10 @@
     "hubot-help": "^0.1.1",
     "hubot-slack": "^3.3.0",
     "sandbox": "^0.8.6"
+  },
+  {
+	  "engines": {
+		  "iojs": "2.3.1"
+	  }
   }
 }
